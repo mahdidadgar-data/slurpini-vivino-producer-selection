@@ -1,0 +1,5 @@
+scenario,top10_overlap_with_baseline,top_5_regions
+baseline,10,"Vino dItalia, Conegliano-Valdobbiadene Prosecco Superiore, Prosecco, Bolgheri Sassicaia, Primitivo di Manduria"
+quality_focused,6,"Bolgheri Sassicaia, Bolgheri Superiore, Amarone della Valpolicella Classico, Brunello di Montalcino, Primitivo di Manduria"
+value_focused,5,"Vino dItalia, Conegliano-Valdobbiadene Prosecco Superiore, Prosecco, Salento, Prosecco di Treviso"
+popularity_focused,5,"Conegliano-Valdobbiadene Prosecco Superiore, Prosecco, Bolgheri Sassicaia, Vino dItalia, Franciacorta"

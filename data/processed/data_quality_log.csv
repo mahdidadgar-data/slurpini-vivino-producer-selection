@@ -1,0 +1,11 @@
+quality_check,result,planned_action,potential_impact
+Total parsed rows,409777,Use as raw parsed dataset,Defines the starting analytical dataset
+Total columns,7,Confirm expected schema,Confirms the parser created the expected structure
+Parse failures,0,Review and report if present,Could indicate data loss or parsing bias
+Exact duplicate rows,222522,Remove exact duplicates before analysis,Could over-count wines and distort popularity
+Missing values,0,Investigate if present,Could affect summaries or model inputs
+Non-positive prices,0,Exclude or correct before value metrics,Could distort value-for-money calculations
+Invalid ratings outside 0-5 range,0,Investigate if present,Could distort quality analysis
+Non-positive rating counts,0,Investigate if present,Could distort popularity/reliability analysis
+Rows with at least one visible encoding artifact,322736,Clean recurring text encoding issues,Could split identical countries/regions into separate labels
+Text-field occurrences with visible encoding artifacts,427943,Clean recurring text encoding issues,Shows how widespread encoding issues are across text fields

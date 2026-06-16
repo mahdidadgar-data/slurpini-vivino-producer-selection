@@ -1,0 +1,7 @@
+min_rating_count,transform,top10_overlap_with_baseline,top_regions
+50,log1p,10,"Vino dItalia, Conegliano-Valdobbiadene Prosecco Superiore, Prosecco, Prosecco di Treviso, Puglia"
+50,sqrt,8,"Vino dItalia, Conegliano-Valdobbiadene Prosecco Superiore, Asti, Prosecco, Prosecco di Treviso"
+100,log1p,10,"Vino dItalia, Conegliano-Valdobbiadene Prosecco Superiore, Prosecco, Prosecco di Treviso, Puglia"
+100,sqrt,8,"Vino dItalia, Conegliano-Valdobbiadene Prosecco Superiore, Asti, Prosecco, Prosecco di Treviso"
+250,log1p,10,"Vino dItalia, Prosecco, Conegliano-Valdobbiadene Prosecco Superiore, Puglia, Prosecco di Treviso"
+250,sqrt,9,"Vino dItalia, Conegliano-Valdobbiadene Prosecco Superiore, Asti, Prosecco, Moscato d'Asti"

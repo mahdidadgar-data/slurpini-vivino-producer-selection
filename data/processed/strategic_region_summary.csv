@@ -1,0 +1,26 @@
+region_clean,strategic_category,wine_count,avg_rating,median_rating_count,median_price,avg_weighted_value_score,region_opportunity_score
+Vino dItalia,Value-for-money opportunity,18,3.93,1781.5,39.01,1.4657,0.5889
+Conegliano-Valdobbiadene Prosecco Superiore,Value-for-money opportunity,17,3.79,2937.0,29.2,1.3308,0.586
+Prosecco,Value-for-money opportunity,81,3.67,2015.0,23.99,1.3204,0.5843
+Bolgheri Sassicaia,Premium quality opportunity,22,4.62,3527.0,554.5,0.0704,0.5825
+Primitivo di Manduria,Secondary opportunity,58,4.21,1166.0,93.49,0.7241,0.5435
+Franciacorta,Value-for-money opportunity,36,3.86,2391.0,34.48,0.8367,0.5413
+Brunello di Montalcino,Secondary opportunity,194,4.26,1020.0,99.72,0.3348,0.5393
+Salento,Value-for-money opportunity,52,3.98,1079.0,41.96,1.0564,0.537
+Amarone della Valpolicella Classico,Premium quality opportunity,59,4.34,1413.0,117.95,0.2804,0.5305
+Toscane,Secondary opportunity,331,4.05,966.0,99.65,0.5162,0.5221
+Moscato d'Asti,Value-for-money opportunity,19,4.14,864.0,29.99,1.0002,0.5207
+Chianti Classico,Secondary opportunity,185,3.94,1201.0,54.57,0.6108,0.5193
+Puglia,Value-for-money opportunity,67,3.92,998.0,69.0,1.1267,0.517
+Bolgheri Superiore,Premium quality opportunity,38,4.47,1509.0,257.0,0.1817,0.5169
+Trento,High-visibility market opportunity,15,4.05,1982.0,45.55,0.7081,0.5136
+Bolgheri,High-visibility market opportunity,58,4.08,1482.5,70.0,0.542,0.513
+Veneto,Value-for-money opportunity,67,3.93,1022.0,47.95,0.9764,0.5123
+Valpolicella Ripasso,Value-for-money opportunity,44,3.97,1190.0,50.5,0.9155,0.5107
+Lugana,Secondary opportunity,13,4.11,1337.0,61.5,0.7738,0.4853
+Asti,Value-for-money opportunity,10,3.88,2868.0,201.3,1.0333,0.4842
+Prosecco di Treviso,Value-for-money opportunity,31,3.7,1463.0,39.0,1.1771,0.4836
+Chianti Rπfina,High-visibility market opportunity,14,3.86,2354.0,48.63,0.7969,0.4834
+Emilia,Value-for-money opportunity,13,3.88,1064.0,30.92,1.1173,0.4662
+Isola dei Nuraghi,Secondary opportunity,13,4.2,1104.0,71.0,0.5566,0.4565
+Umbrië,Secondary opportunity,16,4.06,1086.5,48.5,0.6712,0.4512
