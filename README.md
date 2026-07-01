@@ -406,16 +406,6 @@ data/processed/
 
 ---
 
-## Repository Purpose
-
-This repository is intended primarily as a **documentation of the analysis and results**, not as a fully reproducible data package.
-
-It includes the notebook, report, and aggregated output tables/figures so the work can be reviewed end-to-end.
-
-The original Vivino export used for the analysis is **not redistributed here** due to potential restrictions on automated collection and redistribution.
-
-Data was sourced from Vivino; automated access and redistribution may be restricted by Vivino’s terms. This repository includes only aggregated summary outputs for demonstration; raw and wine-level datasets are not redistributed.
-
 ## 17. Final Conclusion
 
 This project demonstrates how messy real-world consumer review data can be transformed into a structured decision-support framework.
@@ -425,3 +415,13 @@ The final solution helps Slurpini move from intuition-based producer exploration
 The project combines data cleaning, exploratory analysis, value-for-money evaluation, robustness checks, region scoring, producer-candidate extraction, business recommendations, and responsible-use limitations.
 
 The main business value is not only the final ranking, but the creation of a repeatable analytical workflow that Slurpini can reuse and improve over time.
+
+## Repository Purpose
+
+This repository is intended primarily as a **documentation of the analysis and results**, not as a fully reproducible data package.
+
+It includes the notebook, report, and aggregated output tables/figures so the work can be reviewed end-to-end.
+
+The original Vivino export used for the analysis is **not redistributed here** due to potential restrictions on automated collection and redistribution.
+
+Data was sourced from Vivino; automated access and redistribution may be restricted by Vivino’s terms. This repository includes only aggregated summary outputs for demonstration; raw and wine-level datasets are not redistributed.
