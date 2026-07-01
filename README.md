@@ -395,7 +395,7 @@ pip install -r requirements.txt
 4. Open and run the notebook:
 
 ```text
-notebooks/slurpini-vivino-producer-selection.ipynb
+notebooks/slurpini_vivino_producer_selection.ipynb
 ```
 
 5. The notebook exports processed outputs to:
