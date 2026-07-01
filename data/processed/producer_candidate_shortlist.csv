@@ -1,6 +1,0 @@
-producer_candidate,region_clean,representative_wine,wine_count,avg_rating,median_rating_count,median_price,price_band,producer_candidate_score,shortlist_justification
-Astrale Rosso N.V.,Vino dItalia,Astrale Rosso N.V.,1,4.1,32292.0,9.99,Accessible,0.7444,"Strong rating (4.10), consumer validation (median rating count 32292), and accessible price profile."
-Doppio Passo Primitivo,Puglia,Doppio Passo Primitivo 2020,2,4.1,7694.0,9.12,Accessible,0.6916,"Strong rating (4.10), consumer validation (median rating count 7694), and accessible price profile."
-Villa Degli Olmi Corte dei Rovi Prosecco N.V.,Prosecco,Villa Degli Olmi Corte dei Rovi Prosecco N.V.,1,4.3,12321.0,12.95,Accessible,0.6706,"Strong rating (4.30), consumer validation (median rating count 12321), and accessible price profile."
-Astrale Bianco N.V.,Vino dItalia,Astrale Bianco N.V.,1,3.9,7687.0,7.0,Accessible,0.6583,"Strong rating (3.90), consumer validation (median rating count 7687), and accessible price profile."
-Martini Asti N.V.,Asti,Martini Asti N.V.,1,3.8,23891.0,9.92,Accessible,0.658,"Strong rating (3.80), consumer validation (median rating count 23891), and accessible price profile."
