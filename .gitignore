@@ -29,6 +29,7 @@ desktop.ini
 # ============================================================
 data/raw/
 data/processed/cleaned_italian_wines.csv
+data/processed/producer_candidate_shortlist.csv
 *.zip
 
 # ============================================================
